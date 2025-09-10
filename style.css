@@ -342,6 +342,15 @@ footer{
 
 
 /* media queries */
+@media screen and (min-width:1400px){
+    .productivity-container{
+        width: 1200px;
+    }
+    .profile-container{
+        width: 1200px;
+    }
+}
+
 @media screen and (max-width:1200px){
     .productivity-text h2{
         width: auto;
